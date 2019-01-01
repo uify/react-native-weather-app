@@ -139,7 +139,7 @@ const styles = StyleSheet.create({
         padding: 10,
         borderRadius: 8,
         justifyContent: 'center',
-        backgroundColor: '#D0D4DE'
+        backgroundColor: 'rgba(208, 212, 222, 0.5)'
     },
     iconForecast: {
         justifyContent: 'center',

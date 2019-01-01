@@ -5,7 +5,7 @@ const port = 3000
 
 const credentials = {
     base: 'https://api.apixu.com/v1',
-    api: 'api-key',
+    api: '',
     options: {
         current: 'current.json',
         forecast: 'forecast.json',
